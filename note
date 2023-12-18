@@ -1,0 +1,58 @@
+
+{
+  "cli": {
+    "version": ">= 4.1.2"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleId": "elabisinfo@gmail.com",
+        "ascAppId": "6470447607",
+        "appleTeamId": "G873X87548"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+4) In dugaanlaha uu macaamiil cusub page ufuri karo, pagekaas oo kasoo muuqanaayaan waxyaabaha hoos ku qoran.
+   >> Profile Avatar uu ku dhax jiro magaciisa xarafka u horeeyo.
+   >> Magaciisha oo seddexan.
+   >> Taleefoon lambarkiis.
+   >> Isku darka lacagta lagu leeyahay
+
+
+
+
+
+
+2) In macaamiilka loo furi karo page waqti ka waqti ah.
+   >> Tusaale in page loo furo macaamiilka 3 bisha ilaa 3 bisha kle.
+   1)
+3) In fariin (SMS) ah loo diro macaamiilka markii lagaaro waqtiga uu bixin lahaa daynta.
+4) In Notification loo diro dugaanlaha markii lagaaro waqtiga uu balanta la lahaa macaamiilka.
+//
